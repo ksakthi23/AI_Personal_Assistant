@@ -1,12 +1,12 @@
 
-# 🤖 AI Personal Assistant Using Python
+#  AI Personal Assistant Using Python
 
 ## 📌 Project Overview
 AI Personal Assistant is a Python-based application designed to simplify everyday tasks through voice commands and text-based interaction.
 
 It provides features such as web searching, note management, reminders, date and time information, and voice responses through an interactive Streamlit interface.
 
-## 🚀 Features
+##  Features
 - Voice input and text-based interaction
 - Text-to-speech responses
 - Current date and time
@@ -18,7 +18,7 @@ It provides features such as web searching, note management, reminders, date and
 - Automatic reminder checking
 - Interactive Streamlit dashboard
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Streamlit
 - Speech Recognition
@@ -42,7 +42,7 @@ AI_Personal_Assistant/
 └── data/
 ```
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -82,7 +82,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 💡 Future Enhancements
+## Future Enhancements
 - AI-powered conversational responses
 - Persistent reminder notifications
 - Improved speech recognition
