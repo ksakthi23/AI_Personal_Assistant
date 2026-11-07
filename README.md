@@ -27,7 +27,7 @@ It provides features such as web searching, note management, reminders, date and
 - SQLite
 - Requests
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 AI_Personal_Assistant/
@@ -89,5 +89,5 @@ streamlit run app.py
 - Personalized assistant settings
 - Integration with external APIs
 
-## 👨‍💻 Author
+##  Author
 Developed as a Python internship project.
