@@ -1,7 +1,7 @@
 
 #  AI Personal Assistant Using Python
 
-## 📌 Project Overview
+## Project Overview
 AI Personal Assistant is a Python-based application designed to simplify everyday tasks through voice commands and text-based interaction.
 
 It provides features such as web searching, note management, reminders, date and time information, and voice responses through an interactive Streamlit interface.
